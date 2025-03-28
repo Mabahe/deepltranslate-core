@@ -43,6 +43,9 @@
 		"issues": "https://github.com/web-vision/deepltranslate-core/issues",
 		"source": "https://github.com/web-vision/deepltranslate-core"
 	},
+	"replace": {
+		"webvision/wv_deepltranslate": "*"
+	},
 	"conflict": {
 		"studiomitte/recordlist-thumbnail": "*",
 		"webvision/wv_deepltranslate": "*"
